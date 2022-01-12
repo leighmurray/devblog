@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
-=======================================
+Source Code for Leigh's Dev Blog
+================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Deployed to readthedocs.io and served at https://blog.leighmurray.com
